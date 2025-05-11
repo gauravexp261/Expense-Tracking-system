@@ -14,22 +14,22 @@ This app allows users to record daily expenses, categorize them, and view summar
 
 expense-tracking-system/
 │
-├── backend/ # FastAPI backend
-│ ├── main.py # API endpoints
-│ ├── db_helper.py # MySQL connection logic
-│ ├── requirements.txt # Python packages for backend
+├── backend/                      # FastAPI backend
+│   ├── main.py                   # API endpoints
+│   ├── db_helper.py              # MySQL connection logic
+│   └── requirements.txt          # Python packages for backend
 │
-├── frontend/ # Streamlit frontend
-│ ├── app.py # Streamlit app entry point
-│ ├── edit_tab.py # Expense editing/viewing
-│ ├── add_tab.py # Add new expenses
-│ ├── summary_tab.py # Expense summaries
-│ ├── .streamlit/
-│ │ └── secrets.toml # API & DB secrets for Streamlit Cloud
-│ └── requirements.txt # Python packages for frontend
+├── frontend/                     # Streamlit frontend
+│   ├── app.py                    # Streamlit app entry point
+│   ├── edit_tab.py               # Expense editing/viewing
+│   ├── add_tab.py                # Add new expenses
+│   ├── summary_tab.py            # Expense summaries
+│   ├── .streamlit/
+│   │   └── secrets.toml          # API & DB secrets for Streamlit Cloud
+│   └── requirements.txt          # Python packages for frontend
 │
-├── README.md
-└── .gitignore
+├── README.md                     # Project documentation
+└── .gitignore      
 
 ## 🚀 Features
 
