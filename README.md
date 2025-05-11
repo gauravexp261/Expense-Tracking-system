@@ -8,7 +8,7 @@ A full-stack expense tracker built with:
 
 This app allows users to record daily expenses, categorize them, and view summaries in a clean and interactive UI.
 
-
+---
 
 ## 📂 Project Structure
 
@@ -30,6 +30,8 @@ expense-tracking-system/
 │
 ├── README.md                     # Project documentation
 └── .gitignore      
+
+---
 
 ## 🚀 Features
 
