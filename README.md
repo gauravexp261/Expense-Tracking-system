@@ -8,7 +8,7 @@ A full-stack expense tracker built with:
 
 This app allows users to record daily expenses, categorize them, and view summaries in a clean and interactive UI.
 
----
+
 
 ## 📂 Project Structure
 
@@ -39,7 +39,7 @@ expense-tracking-system/
 - 🌐 API-first architecture using FastAPI
 - 🧑‍💻 UI built with Streamlit (can run locally or on cloud)
 
----
+
 ⚙️ Run the FastAPI Backend Locally
 cd backend
 pip install -r requirements.txt
