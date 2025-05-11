@@ -44,7 +44,7 @@ expense-tracking-system/
 
 1. **Clone the repository**:
    ```bash
-   git clone [https://github.com/yourusername/expense-management-system.git](https://github.com/gauravexp261/Expense-Tracking-system.git)
+   git clone [Expense-Tracking-system](https://github.com/gauravexp261/Expense-Tracking-system.git)
    cd expense-management-system
    ```
 
